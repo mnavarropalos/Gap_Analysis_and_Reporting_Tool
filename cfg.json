@@ -1,0 +1,81 @@
+[
+  {
+    "sheet_name": "Questionnaire",
+    "token": "##Controls##",
+    "data_to_extract": [
+      {
+        "from_row": 3,
+        "to_row": 350,
+        "from_column": 6,
+        "to_column": 6
+      }
+    ]
+  },
+  {
+    "sheet_name": "Questionnaire",
+    "token": "##Assessment##",
+    "data_to_extract": [
+      {
+        "from_row": 3,
+        "to_row": 350,
+        "from_column": 8,
+        "to_column": 8
+      },
+      {
+        "from_row": 3,
+        "to_row": 350,
+        "from_column": 9,
+        "to_column": 9
+      }
+    ]
+  },
+  {
+    "sheet_name": "Dashboard",
+    "token": "##171##",
+    "data_to_extract": [
+      {
+        "from_row": 3,
+        "to_row": 17,
+        "from_column": 1,
+        "to_column": 2
+      }
+    ]
+  },
+  {
+    "sheet_name": "Dashboard",
+    "token": "##AIRMF##",
+    "data_to_extract": [
+      {
+        "from_row": 3,
+        "to_row": 17,
+        "from_column": 15,
+        "to_column": 16
+      }
+    ]
+  },
+  {
+    "sheet_name": "Dashboard",
+    "token": "##AccessControls##",
+    "data_to_extract": [
+      {
+        "from_row": 41,
+        "to_row": 62,
+        "from_column": 2,
+        "to_column": 2
+      }
+    ]
+  },
+  {
+    "sheet_name": "Dashboard",
+    "token": "##Report##",
+    "data_to_extract": [
+      {
+        "from_row": 1,
+        "to_row": 1,
+        "from_column": 1,
+        "to_column": 1
+        "to_column": 1
+      }
+    ]
+  }
+]
